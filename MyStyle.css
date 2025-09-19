@@ -25,11 +25,19 @@ a:active {
   color: #391415;
 }
 .thirdcolumn {
-	width: 31.3%;
+	width: 28.3%;
 	padding: 15px;
 	float: left;
 	margin: 10px;
 }
 .thirdcolumn:hover {
 	box-shadow: 0px 0px 5px 0px #444;
+}
+body {
+	background-color: #FFE1E1;
+	color:#430000;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
 }
